@@ -1,0 +1,17 @@
+[
+  {
+    "id": "1",
+    "name": "Supplier A",
+    "address": "123 Main St, City A"
+  },
+  {
+    "id": "2",
+    "name": "Supplier B",
+    "address": "456 Market Rd, City B"
+  },
+  {
+    "id": "3",
+    "name": "Supplier C",
+    "address": "789 Industrial Blvd, City C"
+  }
+]
